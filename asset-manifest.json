@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.81f5eb6f.css",
+    "main.js": "/repository-name/static/js/main.51029182.js",
+    "static/media/sunset.jpg": "/repository-name/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/repository-name/index.html",
+    "main.81f5eb6f.css.map": "/repository-name/static/css/main.81f5eb6f.css.map",
+    "main.51029182.js.map": "/repository-name/static/js/main.51029182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81f5eb6f.css",
+    "static/js/main.51029182.js"
+  ]
+}
